@@ -19,7 +19,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与实用教程',
   HEO_HERO_TITLE_3: 'shenmixia.com',
   HEO_HERO_TITLE_4: '玩机技巧',
-  HEO_HERO_TITLE_5: 'TrollStore 免越狱轻松多开',
+  HEO_HERO_TITLE_5: 'TrollStore iOS免越狱轻松多开',
   HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
 
   // 英雄区显示三个置顶分类
