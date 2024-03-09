@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的神秘匣', url: '' },
-    { title: '发现好玩实用的优质资源', url: '' }
+    { title: '', url: '' },
+    { title: '', url: '' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -42,7 +42,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: '', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
